@@ -58,7 +58,7 @@
 
 <body>
 <h1 align="center">PHP Calculator</h1>
-<form action="calc.php" method="post">
+<form action="TipCalculator.php" method="post">
 <div align="center" class="row">
 <div class="col-sm-3">
 <p align="left" <?php echo $colSubTotal; ?>>Bill Total: $</p>
